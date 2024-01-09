@@ -1,6 +1,6 @@
 # Terraform-Project
 
-Install Terraform in MAC: 
+Install Terraform in Mac: 
 --------------------------
 brew tap hashicorp/tap
 
